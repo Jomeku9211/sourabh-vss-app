@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "76178033793",
+    "project_id": "vss-project-93f77",
+    "storage_bucket": "vss-project-93f77.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:76178033793:android:5e6bdb3eb3d16ed8665180",
+        "android_client_info": {
+          "package_name": "com.mycompany.vssproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDssyo8vCeNjIlkdLdIMjkJtPJC8BFdlMU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
